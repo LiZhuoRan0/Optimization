@@ -6,9 +6,9 @@ My goal is to minimize a quadratic function $$f(\mathbf{x})=\frac{1}{2}\mathbf{x
 Some simulation results are placed here
 
 <div align=center>
-<img src= “https://github.com/LiZhuoRan0/SimpleGradientDescent/blob/main/SomeOfSimulations/N_10.jpg”/>
+<img src="https://github.com/LiZhuoRan0/SimpleGradientDescent/blob/main/SomeOfSimulations/N_10.jpg"/>
 </div>
 
 <div align=center>
-<img src= “https://github.com/LiZhuoRan0/SimpleGradientDescent/blob/main/SomeOfSimulations/N_100.jpg”/>
+<img src="https://github.com/LiZhuoRan0/SimpleGradientDescent/blob/main/SomeOfSimulations/N_100.jpg"/>
 </div>
